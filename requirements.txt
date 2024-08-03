@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+numpy
+tensorflow_hub
+tf_keras
+datetime
+pandas
+boto3
